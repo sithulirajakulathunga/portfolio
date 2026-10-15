@@ -80,11 +80,11 @@ footer a{
 }
 
 .profile-pic {
-    width: 100px;           /* Size eka thawath podi kara (80px - 120px athara change karanna puluwan) */
-    height: 100px;     ss     /* Width ekamai danna ඕන rawum wenda */
-    border-radius: 50%;     /* Photo eka hariyatama rawum karන්නේ meken */
-    object-fit: cover;      /* Photo eka ඇදෙන්නේ නැතුව hariyata square crop wenna */
-    border: 3px solid white; /* Photo eka watai white border ekak */
+    width: 100px;          
+    height: 100px;    
+    border-radius: 50%;     
+    object-fit: cover;      
+    border: 3px solid white; 
     display: block;
-    margin: 0 auto 10px auto; /* Centre karanna saha yatin podi space ekak thiyanna */
+    margin: 0 auto 10px auto; 
 }
